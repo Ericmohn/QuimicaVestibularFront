@@ -12,7 +12,7 @@ const HeaderWrapper = styled.header`
 const HeaderLanding = () => {
   return (
     <HeaderWrapper>
-      <BotaoIrSumario to="/">Química Vestibular</BotaoIrSumario>
+      <BotaoIrSumario to="/">quimicavestibular</BotaoIrSumario>
     </HeaderWrapper>
   )
 }
