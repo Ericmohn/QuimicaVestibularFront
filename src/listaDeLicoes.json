@@ -1,0 +1,1131 @@
+[
+  {
+    "nomemateria": "Quimica Geral",
+    "fundo1": "#DDC3F2",
+    "fundo2": "#fbf3ff",
+    "licoes": [{
+      linkLicao: "./L1",
+      nomeLicao: "L1 - Átomo, Elemento e Símbolo",
+      url: '...'
+      "url": "https://www.youtube.com/embed/wbYp8UOzmXc?si=ZdcYg1tBF-uiGkU"
+    },
+    {
+      linkLicao: "./L2",
+      nomeLicao: "L2 - Substância Simples e Composta",
+      url: '...'
+    },
+    {
+      linkLicao: "./L3",
+      nomeLicao: "L3 - Unidade de massa atômica",
+      url: '...'
+    },
+    {
+      linkLicao: "./L4",
+      nomeLicao: "L4 - Massa atômica do elemento",
+      url: '...'
+    },
+    {
+      linkLicao: "./L5",
+      nomeLicao: "L5 - Mol",
+      url: '...'
+    },
+    {
+      linkLicao: "./L6",
+      nomeLicao: "L6 - Notação Científica",
+      url: '...'
+    },
+    {
+      linkLicao: "./L7",
+      nomeLicao: "L7 - Constante de Avogadro - (1)",
+      url: '...'
+    },
+    {
+      linkLicao: "./L8",
+      nomeLicao: "L8 - Constante de Avogadro - (2)",
+      url: '...'
+    },
+    {
+      linkLicao: "./L9",
+      nomeLicao: "L9 - Revisão",
+      url: '...'
+    },
+    {
+      linkLicao: "./L10",
+      nomeLicao: "L10 - Fórmula Mínima a partir da fórmula molecular",
+      url: '...'
+    },
+    {
+      linkLicao: "./L11",
+      nomeLicao: "L11 - Fórmula Molecular Bruta",
+      url: '...'
+    },
+    {
+      linkLicao: "./L12",
+      nomeLicao: "L12 - Fórmulas: Percentual, Mínima e Bruta",
+      url: '...'
+    },
+    {
+      linkLicao: "./L13",
+      nomeLicao: "L13 - Revisão Geral",
+      url: '...'
+    }
+
+
+  ]
+  },
+  {
+    "nomemateria": "Leis Ponderais",
+    "fundo1": "#86d0fb",
+    "fundo2": "#ceedff",
+    "licoes": [{
+      linkLicao: "./L14",
+      nomeLicao: "L14 - Lei de Lavoisier: Conservação das Massas",
+      url: '...'
+    },
+    {
+      linkLicao: "./L15",
+      nomeLicao: "L15 - Lei de Proust: Proporções Definidas",
+      url: '...'
+    },
+    {
+      linkLicao: "./L16",
+      nomeLicao: "L16 - Lei de Dalton: Proporções Múltiplas",
+      url: '...'
+    },
+    {
+      linkLicao: "./L17",
+      nomeLicao: "L17 - Balanceamento de Equações",
+      url: '...'
+    }
+  ]
+  },
+  {
+    "nomemateria": "Gases",
+    "fundo1": "#f694f1",
+    "fundo2": "#f4d5fb",
+    "licoes": [{
+      linkLicao: "./L18",
+      nomeLicao: "L18 - Gás Perfeito - Variações de Estado",
+      url: '...'
+    },
+
+    {
+      linkLicao: "./L201",
+      nomeLicao: "L201 - Energia Cinética dos Gases",
+      url: '...'
+    },
+    {
+      linkLicao: "./L19",
+      nomeLicao: "L19 - Leis dos Gases",
+      url: '...'
+    },
+    {
+      linkLicao: "./L20",
+      nomeLicao: "L20 - Equação Geral dos Gases",
+      url: '...'
+    },
+    {
+      linkLicao: "./L21",
+      nomeLicao: "L21 - Equação de Clapeyron 1",
+      url: '...'
+    },
+    {
+      linkLicao: "./L22",
+      nomeLicao: "L22 - quação de Clapeyron 2",
+      url: '...'
+    },
+    {
+      linkLicao: "./L23",
+      nomeLicao: "L23 - Equação de van der Waals",
+      url: '...'
+    },
+    {
+      linkLicao: "./L24",
+      nomeLicao: "L24 - Densidade dos Gases",
+      url: '...'
+    },
+    {
+      linkLicao: "./L25",
+      nomeLicao: "L25 - Mistura de Gases - Lei de Dalton",
+      url: '...'
+    },
+    {
+      linkLicao: "./L26",
+      nomeLicao: "L26 - Lei de Amagat - Fração Molar",
+      url: '...'
+    },
+    {
+      linkLicao: "./L27",
+      nomeLicao: "L27 - Difusão e Efusão de Gases",
+      url: '...'
+    },
+    {
+      linkLicao: "./L202",
+      nomeLicao: "L28 - Livre Percurso Médio",
+      url: '...'
+    },
+    {
+      linkLicao: "./L28",
+      nomeLicao: "L28 - Lei Volumétrica de Gay-Lussac",
+      url: '...'
+    },
+    {
+      linkLicao: "./L29",
+      nomeLicao: "L29 - Calor Específico",
+      url: '...'
+    },
+    {
+      linkLicao: "./L30",
+      nomeLicao: "L30 - Trabalho (W)",
+      url: '...'
+    },
+    {
+      linkLicao: "./L31",
+      nomeLicao: "L31 - Processo Adiabático",
+      url: '...'
+    }
+    ]
+  },
+  {
+    "nomemateria": "Cálculo Estequiométrico",
+    "fundo1": "#b079f3",
+    "fundo2": "#c2a3e7",
+    "licoes": [{
+    linkLicao: "./L32",
+    nomeLicao: "L32 - N° de moléculas e N° de mols",
+    url: '...'
+  },
+  {
+    linkLicao: "./L33",
+    nomeLicao: "L33 - N° de mols e massa",
+    url: '...'
+  },
+  {
+    linkLicao: "./L34",
+    nomeLicao: "L34 - N° de mols, massa, volume, n° de moléculas",
+    url: '...'
+  },
+  {
+    linkLicao: "./L35",
+    nomeLicao: "L35 - Cálculo da Pureza",
+    url: '...'
+  },
+  {
+    linkLicao: "./L36",
+    nomeLicao: "L36 - Rendimento de uma reação",
+    url: '...'
+  },
+  {
+    linkLicao: "./L203",
+    nomeLicao: "L203 - Reações Sucessivas",
+    url: '...'
+  },
+  {
+    linkLicao: "./L37",
+    nomeLicao: "L37 - Lei Volumétrica de Gay-Lussac",
+    url: '...'
+  },
+  {
+    linkLicao: "./L38",
+    nomeLicao: "L38 - Reagente em Excesso",
+    url: '...'
+  },
+  {
+    linkLicao: "./L39",
+    nomeLicao: "L39 - Sal Anidro e Sal Hidratado",
+    url: '...'
+  },
+  {
+    linkLicao: "./L40",
+    nomeLicao: "L40 - Mistura de Substâncias",
+    url: '...'
+  }]
+  },
+  {
+    "nomemateria": "Cristalografia",
+    "fundo1": "#e99403",
+    "fundo2": "#ffcb9e",
+    "licoes": [{
+      linkLicao: "./L41",
+      nomeLicao: "L41 - Sistemas Cristalinos",
+      url: '...'
+    },
+    {
+      linkLicao: "./L42",
+      nomeLicao: "L42 - N° de Coordenação",
+      url: '...'
+    }]
+  },
+  {
+    "nomemateria": "Termoquímica",
+    "fundo1": "#fa4a47",
+    "fundo2": "#ffb0b0",
+    "licoes": [{
+      linkLicao: "./L43",
+      nomeLicao: "L43 - Entalpia (H)",
+      url: '...'
+    },
+    {
+      linkLicao: "./L204",
+      nomeLicao: "L204 - Poder Calorífico dos Alimentos",
+      url: '...'
+    },
+    {
+      linkLicao: "./L44",
+      nomeLicao: "L44 - Informar o calor de uma reação",
+      url: '...'
+    },
+    {
+      linkLicao: "./L45",
+      nomeLicao: "L45 - Reações mais frequentes",
+      url: '...'
+    },
+    {
+      linkLicao: "./L46",
+      nomeLicao: "L46 - Lei de Hess",
+      url: '...'
+    },
+    {
+      linkLicao: "./L47",
+      nomeLicao: "L47 - Energia Reticular",
+      url: '...'
+    },
+    {
+      linkLicao: "./L48",
+      nomeLicao: "L48 - Energia de Ligação",
+      url: '...'
+    },
+    {
+      linkLicao: "./L49",
+      nomeLicao: "L49 - Lei de Kirchoff",
+      url: '...'
+    },
+    {
+      linkLicao: "./L50",
+      nomeLicao: "L50 - Energia Interna e Trabalho",
+      url: '...'
+    },
+    {
+      linkLicao: "./L51",
+      nomeLicao: "L51 - Entropia (S)",
+      url: '...'
+    },
+    {
+      linkLicao: "./L52",
+      nomeLicao: "L52 - Entropia do Universo",
+      url: '...'
+    },
+    {
+      linkLicao: "./L53",
+      nomeLicao: "L53 - Entropia x Temperatura",
+      url: '...'
+    },
+    {
+      linkLicao: "./L54",
+      nomeLicao: "L54 - Resumo de Entropia",
+      url: '...'
+    },
+    {
+      linkLicao: "./L55",
+      nomeLicao: "L55 - Microestados",
+      url: '...'
+    },
+    {
+      linkLicao: "./L56",
+      nomeLicao: "L56 - Energia Livre de Gibbs",
+      url: '...'
+    }]
+  },
+  {
+    "nomemateria": "Soluções",
+    "fundo1": "#18c738",
+    "fundo2": "#baffc0",
+    "licoes": [ {
+      linkLicao: "./L57",
+      nomeLicao: "L57 - Coeficiente de Solubilidade",
+      url: '...'
+    },
+    {
+      linkLicao: "./L58",
+      nomeLicao: "L58 - Variação da solubilidade com a temperatura",
+      url: '...'
+    },
+    {
+      linkLicao: "./L59",
+      nomeLicao: "L59 - Solubilidade dos Gases",
+      url: '...'
+    },
+    {
+      linkLicao: "./L60",
+      nomeLicao: "L60 - Concentração Comum",
+      url: '...'
+    },
+    {
+      linkLicao: "./L61",
+      nomeLicao: "L61 - Título em Volume",
+      url: '...'
+    },
+    {
+      linkLicao: "./L62",
+      nomeLicao: "L62 - Grau INPM e Grau Gay-Lussac",
+      url: '...'
+    },
+    {
+      linkLicao: "./L63",
+      nomeLicao: "L63 - Molaridade",
+      url: '...'
+    },
+    {
+      linkLicao: "./L64",
+      nomeLicao: "L64 - Molaridade dos íons",
+      url: '...'
+    },
+    {
+      linkLicao: "./L65",
+      nomeLicao: "L65 - Revisão",
+      url: '...'
+    },
+    {
+      linkLicao: "./L66",
+      nomeLicao: "L66 - Mudança de Unidades",
+      url: '...'
+    },
+    {
+      linkLicao: "./L67",
+      nomeLicao: "L67 - Molalidade e Fração Molar",
+      url: '...'
+    },
+    {
+      linkLicao: "./L68",
+      nomeLicao: "L68 - Diluição de Soluções",
+      url: '...'
+    },
+    {
+      linkLicao: "./L69",
+      nomeLicao: "L69 - Mistura de soluções",
+      url: '...'
+    },
+    {
+      linkLicao: "./L70",
+      nomeLicao: "L70 - Volumetria 1",
+      url: '...'
+    },
+    {
+      linkLicao: "./L71",
+      nomeLicao: "L71 - Volumetria 2",
+      url: '...'
+    },
+    {
+      linkLicao: "./L72",
+      nomeLicao: "L72 - Mistura aleatória de dois reagentes",
+      url: '...'
+    },
+    {
+      linkLicao: "./L73",
+      nomeLicao: "L73 - Pressão de Vapor",
+      url: '...'
+    },
+    {
+      linkLicao: "./L74",
+      nomeLicao: "L74 - Ponto de ebulição",
+      url: '...'
+    },
+    {
+      linkLicao: "./L75",
+      nomeLicao: "L75 - Diagrama de Fases",
+      url: '...'
+    },
+    {
+      linkLicao: "./L76",
+      nomeLicao: "L76 - Solução ideal: Lei de Raoult",
+      url: '...'
+    },
+    {
+      linkLicao: "./L77",
+      nomeLicao: "L77 - Revisão",
+      url: '...'
+    }]
+  },
+  {
+    "nomemateria": "Cinética Química",
+    "fundo1": "#f38a44",
+    "fundo2": "#f9d1b1",
+    "licoes": [ {
+      linkLicao: "./L78",
+      nomeLicao: "L78 - Velocidade Média da Reação",
+      url: '...'
+    },
+    {
+      linkLicao: "./L79",
+      nomeLicao: "L79 - Contato - Energia de Ativação",
+      url: '...'
+    },
+    {
+      linkLicao: "./L80",
+      nomeLicao: "L80 - Superfície de contato e temperatura",
+      url: '...'
+    },
+    {
+      linkLicao: "./L81",
+      nomeLicao: "L81 - Lei de Guldberg-Waage",
+      url: '...'
+    },
+    {
+      linkLicao: "./L82",
+      nomeLicao: "L82 - Casalisador - Enzimas",
+      url: '...'
+    },
+    {
+      linkLicao: "./L83",
+      nomeLicao: "L83 - Determinação experimental da Lei da Velocidade",
+      url: '...'
+    },
+    {
+      linkLicao: "./L84",
+      nomeLicao: "L84 - Equações Integradas Meia Vida",
+      url: '...'
+    },
+    {
+      linkLicao: "./L85",
+      nomeLicao: "L85 - Determinação da constante de velocidade",
+      url: '...'
+    },
+    {
+      linkLicao: "./L86",
+      nomeLicao: "L86 - Estudo das reações de primeira ordem",
+      url: '...'
+    },
+    {
+      linkLicao: "./L87",
+      nomeLicao: "L87 - Equação de Arrhenius",
+      url: '...'
+    }]
+  },
+  {
+    "nomemateria": "Coloides",
+    "fundo1": "#c1f870",
+    "fundo2": "#ebffcf",
+    "licoes": [{
+      linkLicao: "./L88",
+      nomeLicao: "L88 - Definição - Identificação Efeito Tyndall",
+      url: '...'
+    },
+    {
+      linkLicao: "./L89",
+      nomeLicao: "L89 - Propriedades Estabilização Eletroforese",
+      url: '...'
+    }]
+  },
+  {
+    "nomemateria": "Equilíbrio Molecular",
+    "fundo1": "#04a99c",
+    "fundo2": "#97dbd6",
+    "licoes": [ {
+      linkLicao: "./L90",
+      nomeLicao: "L90 - Constante de Equilíbrio - Avanço de uma reação",
+      url: '...'
+    },
+    {
+      linkLicao: "./L91",
+      nomeLicao: "L91 - Quociente Reacional",
+      url: '...'
+    },
+    {
+      linkLicao: "./L92",
+      nomeLicao: "L92 - Constante de Equilíbrio e Pressão Parcial",
+      url: '...'
+    },
+    {
+      linkLicao: "./L93",
+      nomeLicao: "L93 - Obtenção da Constante",
+      url: '...'
+    },
+    {
+      linkLicao: "./L94",
+      nomeLicao: "L94 - Energia Livre de Gibbs",
+      url: '...'
+    },
+    {
+      linkLicao: "./L95",
+      nomeLicao: "L95 - Princípio de Le Chatelier",
+      url: '...'
+    },
+    {
+      linkLicao: "./L96",
+      nomeLicao: "L96 - Catalisador: Variação com Temperatura",
+      url: '...'
+    },
+    {
+      linkLicao: "./L97",
+      nomeLicao: "L97 - Gráficos",
+      url: '...'
+    },
+    {
+      linkLicao: "./L98",
+      nomeLicao: "L98 - Revisão",
+      url: '...'
+    }]
+  },
+  {
+    "nomemateria": "Equilíbrio Iônico",
+    "fundo1": "#0772e3",
+    "fundo2": "#a7d2ff",
+    "licoes": [ {
+      linkLicao: "./L99",
+      nomeLicao: "L99 - Definição: Constante de Equilíbrio",
+      url: '...'
+    },
+    {
+      linkLicao: "./L100",
+      nomeLicao: "L100 - Lei da Diluição de Ostwald",
+      url: '...'
+    },
+    {
+      linkLicao: "./L101",
+      nomeLicao: "L101 - Medindo a força de um ácido",
+      url: '...'
+    },
+    {
+      linkLicao: "./L102",
+      nomeLicao: "L102 - Autoionização da Água",
+      url: '...'
+    },
+    {
+      linkLicao: "./L103",
+      nomeLicao: "L103 - Variação do Kw com a temperatura",
+      url: '...'
+    },
+    {
+      linkLicao: "./L104",
+      nomeLicao: "L104 - Cálculo do pH dado o grau de ionização",
+      url: '...'
+    },
+    {
+      linkLicao: "./L105",
+      nomeLicao: "L105 - Cálculo do pH (Dibases e Diácidos)",
+      url: '...'
+    },
+    {
+      linkLicao: "./L106",
+      nomeLicao: "L106 - Diluição de um ácido forte",
+      url: '...'
+    },
+    {
+      linkLicao: "./L107",
+      nomeLicao: "L107 - Hidrólise de sais",
+      url: '...'
+    },
+    {
+      linkLicao: "./L108",
+      nomeLicao: "L108 - Constante de Hidrólise",
+      url: '...'
+    },
+    {
+      linkLicao: "./L109",
+      nomeLicao: "L109 - Cálculo do pH de um sal<",
+      url: '...'
+    },
+    {
+      linkLicao: "./L110",
+      nomeLicao: "L110 - Solução Tampão",
+      url: '...'
+    },
+    {
+      linkLicao: "./L111",
+      nomeLicao: "L111 - Adição de ácido ou base a um tampão",
+      url: '...'
+    },
+    {
+      linkLicao: "./L112",
+      nomeLicao: "L112 - Titulação",
+      url: '...'
+    },
+    {
+      linkLicao: "./L113",
+      nomeLicao: "L113 - Curvas de Titulação",
+      url: '...'
+    },
+    {
+      linkLicao: "./L114",
+      nomeLicao: "L114 - Diagrama Alfa",
+      url: '...'
+    },
+    {
+      linkLicao: "./L115",
+      nomeLicao: "L115 - Produto de Solubilidade",
+      url: '...'
+    },
+    {
+      linkLicao: "./L116",
+      nomeLicao: "L116 - Efeito do Íon Comum",
+      url: '...'
+    },
+    {
+      linkLicao: "./L117",
+      nomeLicao: "L117 - Significado de Kps",
+      url: '...'
+    },
+    {
+      linkLicao: "./L117B",
+      nomeLicao: "L117B - Reações com ácido Sulfúrico",
+      url: '...'
+    }]
+  },
+  {
+    "nomemateria": "Eletroquímica",
+    "fundo1": "#e3d107",
+    "fundo2": "#f5efab",
+    "licoes": [{
+      linkLicao: "./L118",
+      nomeLicao: "L118 - >Número de Oxidação (Nox)",
+      url: '...'
+    },
+    {
+      linkLicao: "./L119",
+      nomeLicao: "L119 - Oxidação e Redução: Definição",
+      url: '...'
+    },
+    {
+      linkLicao: "./L120",
+      nomeLicao: "L120 - Balanceamento de equações: Método da Variação do Nox",
+      url: '...'
+    },
+    {
+      linkLicao: "./L121",
+      nomeLicao: "L121 - Balanceamento de equações: Dois elementos sofrendo oxidação ou redução",
+      url: '...'
+    },
+    {
+      linkLicao: "./L122",
+      nomeLicao: "L122 - Balanceamento de equações: Método do íon-elétron",
+      url: '...'
+    },
+    {
+      linkLicao: "./L123",
+      nomeLicao: "L123 - Potencial de Oxidação",
+      url: '...'
+    },
+    {
+      linkLicao: "./L124",
+      nomeLicao: "L124 - Montando equações de REDOX",
+      url: '...'
+    },
+    {
+      linkLicao: "./L125",
+      nomeLicao: "L125 - Potencial do eletrodo a partir da Variação de Energia Livre",
+      url: '...'
+    },
+    {
+      linkLicao: "./L126",
+      nomeLicao: "L126 - Aplicações das reações de REDOX",
+      url: '...'
+    },
+    {
+      linkLicao: "./L127",
+      nomeLicao: "L127 - Pilha de Daniell",
+      url: '...'
+    },
+    {
+      linkLicao: "./L128",
+      nomeLicao: "L128 - Eletrodo e seu potencial",
+      url: '...'
+    },
+    {
+      linkLicao: "./L129",
+      nomeLicao: "L129 - Equação de Nernst",
+      url: '...'
+    },
+    {
+      linkLicao: "./L130",
+      nomeLicao: "L130 - Constante de Equilíbrio pelo Potencial de Eletrodo",
+      url: '...'
+    },
+    {
+      linkLicao: "./L131",
+      nomeLicao: "L131 - Kps a partir da solubilidade",
+      url: '...'
+    },
+    {
+      linkLicao: "./L132",
+      nomeLicao: "L132 - Determinação do pH",
+      url: '...'
+    },
+    {
+      linkLicao: "./L133",
+      nomeLicao: "L133 - Pilhas Comerciais",
+      url: '...'
+    },
+    {
+      linkLicao: "./L134",
+      nomeLicao: "L134 - Eletrólise",
+      url: '...'
+    },
+    {
+      linkLicao: "./L135",
+      nomeLicao: "L135 - Eletrólise em solução aquosa",
+      url: '...'
+    },
+    {
+      linkLicao: "./L136",
+      nomeLicao: "L136 - Aplicação da Eletrólise",
+      url: '...'
+    },
+    {
+      linkLicao: "./L137",
+      nomeLicao: "L137 - Condutometria",
+      url: '...'
+    },
+    {
+      linkLicao: "./L138",
+      nomeLicao: "L138 - Determinação do Potencial no Ponto de Equivalência",
+      url: '...'
+    }]
+  },
+  {
+    "nomemateria": "Propriedades Coligativas",
+    "fundo1": "#ff8c57",
+    "fundo2": "#ffe3d6",
+    "licoes": [ {
+      linkLicao: "./L139",
+      nomeLicao: "L139 - Definição: Considerações Gerais",
+      url: '...'
+    },
+    {
+      linkLicao: "./L140",
+      nomeLicao: "L140 - Tonometria e Osmometria",
+      url: '...'
+    },
+    {
+      linkLicao: "./L141",
+      nomeLicao: "L141 - Cálculos - 1",
+      url: '...'
+    },
+    {
+      linkLicao: "./L142",
+      nomeLicao: "L142 - Cálculos - 2",
+      url: '...'
+    },
+    {
+      linkLicao: "./L143",
+      nomeLicao: "L143 - N° de partículas em solução: Fator de van't Hoff",
+      url: '...'
+    },
+    {
+      linkLicao: "./L144",
+      nomeLicao: "L144 - Desmontração do fator de van't Hoff - Solução de ácido benzoico em benzeno - Diagrama de fase da solução",
+      url: '...'
+    }]
+  },
+  {
+    "nomemateria": "Radioatividade",
+    "fundo1": "#8ce005",
+    "fundo2": "#e5ffbc",
+    "licoes": [{
+      linkLicao: "./L145",
+      nomeLicao: "L145 - Definição: Leis da Radioatividade",
+      url: '...'
+    },
+    {
+      linkLicao: "./L146",
+      nomeLicao: "L146 - Séries Radioativas",
+      url: '...'
+    },
+    {
+      linkLicao: "./L147",
+      nomeLicao: "L147 - Reação de Transmutação",
+      url: '...'
+    },
+    {
+      linkLicao: "./L148",
+      nomeLicao: "L148 - Efeito do empacotamento",
+      url: '...'
+    },
+    {
+      linkLicao: "./L149",
+      nomeLicao: "L149 - Constante Radioativa - Vida Média - Meia Vida",
+      url: '...'
+    },
+    {
+      linkLicao: "./L150",
+      nomeLicao: "L150 - Datação de fósseis pelo C-14",
+      url: '...'
+    },
+    {
+      linkLicao: "./L151",
+      nomeLicao: "L151 - Descoberta do Nêutron - Bomba Atômica - Reator Nuclear",
+      url: '...'
+    },
+    {
+      linkLicao: "./L152",
+      nomeLicao: "L152 - Desintegração Simples - Reações Paralelas - Reações Consecutivas",
+      url: '...'
+    }]
+  },
+  {
+    "nomemateria": "Funções Inorgânicas",
+    "fundo1": "#d9ff2f",
+    "fundo2": "#f5ffc7",
+    "licoes": [{
+      linkLicao: "./L153",
+      nomeLicao: "L153 - Óxidos: Definição",
+      url: '...'
+    },
+    {
+      linkLicao: "./L154",
+      nomeLicao: "L154 - Óxidos: Nomenclatura",
+      url: '...'
+    },
+    {
+      linkLicao: "./L155",
+      nomeLicao: "L155 - Base de Arrhenius",
+      url: '...'
+    },
+    {
+      linkLicao: "./L156",
+      nomeLicao: "L156 - Ácido de Arrhenius",
+      url: '...'
+    },
+    {
+      linkLicao: "./L157",
+      nomeLicao: "L157 -  Ácido de Arrhenius - Nomenclatura: orto, piro, meta, tio",
+      url: '...'
+    },
+    {
+      linkLicao: "./L158",
+      nomeLicao: "L158 - Ácido de Arrhenius - Fórmulas estruturais dos ácido",
+      url: '...'
+    },
+    {
+      linkLicao: "./L159",
+      nomeLicao: "L159 - Classificação dos ácidos e bases",
+      url: '...'
+    },
+    {
+      linkLicao: "./L160",
+      nomeLicao: "L160 - Comparando Ácidos e Bases de Arrhenius",
+      url: '...'
+    },
+    {
+      linkLicao: "./L161",
+      nomeLicao: "L161 - Sal: Definição",
+      url: '...'
+    },
+    {
+      linkLicao: "./L162",
+      nomeLicao: "L162 - Condutividade Elétrica das soluções",
+      url: '...'
+    }]
+  },
+  {
+    "nomemateria": "Funções Inorgânicas: Reações",
+    "fundo1": "#d9ff2f",
+    "fundo2": "#f5ffd7",
+    "licoes": [ {
+      linkLicao: "./L163",
+      nomeLicao: "L163 - Reação de Neutralização Completa",
+      url: '...'
+    },
+    {
+      linkLicao: "./L164",
+      nomeLicao: "L164 - Neutralização Parcial - Nomenclatura do Hidrogenossal - Hidroxissais",
+      url: '...'
+    },
+    {
+      linkLicao: "./L165",
+      nomeLicao: "L165 - Reação entre Compostos Iônicos",
+      url: '...'
+    },
+    {
+      linkLicao: "./L166",
+      nomeLicao: "L166 - Reação entre íons formando Compostos Moleculares",
+      url: '...'
+    },
+    {
+      linkLicao: "./L167",
+      nomeLicao: "L167 - Reação de um ácido com um metal",
+      url: '...'
+    },
+    {
+      linkLicao: "./L168",
+      nomeLicao: "L168 - Reações de Deslocamento ou Simples Troca - Reações Importantes",
+      url: '...'
+    },
+    {
+      linkLicao: "./L169",
+      nomeLicao: "L169 - Reações de Síntese ou Adição - Análise ou Decomposição - Combustão - Reação com amônia",
+      url: '...'
+    }]
+  },
+  {
+    "nomemateria": "Reações dos Óxidos",
+    "fundo1": "#d9ff2f",
+    "fundo2": "#f5ffe7",
+    "licoes": [{
+      linkLicao: "./L170",
+      nomeLicao: "L170 - Óxidos Ácidos ou Anidridos de Ácidos",
+      url: '...'
+    },
+    {
+      linkLicao: "./L171",
+      nomeLicao: "L171 - Óxidos Básicos",
+      url: '...'
+    },
+    {
+      linkLicao: "./L172",
+      nomeLicao: "L172 - Comparação: Óxidos Ácidos e Óxidos Básicos",
+      url: '...'
+    },
+    {
+      linkLicao: "./L173",
+      nomeLicao: "L173 - Peróxidos e Superóxidos",
+      url: '...'
+    },
+    {
+      linkLicao: "./L174",
+      nomeLicao: "L174 - Óxidos Neutros ou Indiferentes",
+      url: '...'
+    },
+    {
+      linkLicao: "./L175",
+      nomeLicao: "L175 - Óxidos Anfóteros",
+      url: '...'
+    },
+    {
+      linkLicao: "./L176",
+      nomeLicao: "L176 - Óxidos Duplos, Mistos ou Salinos",
+      url: '...'
+    },
+    {
+      linkLicao: "./L177",
+      nomeLicao: "L177 - Informações Complementares",
+      url: '...'
+    },
+    {
+      linkLicao: "./L178",
+      nomeLicao: "L178 - Revisão",
+      url: '...'
+    }]
+  },
+  {
+    "nomemateria": "Estrutura Atômica",
+    "fundo1": "#8550e7",
+    "fundo2": "#e1d1ff",
+    "licoes": [{
+      linkLicao: "./L179",
+      nomeLicao: "L179 - Átomo: Partículas e Número Atômico",
+      url: '...'
+    },
+    {
+      linkLicao: "./L180",
+      nomeLicao: "L180 - Carga e Tamanho dos Átomos",
+      url: '...'
+    },
+    {
+      linkLicao: "./L181",
+      nomeLicao: "L181 - Elemento Químico: Isótopos, Isóbaros e Isótons",
+      url: '...'
+    },
+    {
+      linkLicao: "./L182",
+      nomeLicao: "L182 - Princípio da Incerteza de Heisenberg - Orbital - Spin - Princípio da Exclusão de Pauli",
+      url: '...'
+    },
+    {
+      linkLicao: "./L183",
+      nomeLicao: "L183 - Energia dos Elétrons: Nível e Subnível",
+      url: '...'
+    },
+    {
+      linkLicao: "./L184",
+      nomeLicao: "L184 - Distribuição dos Elétrons nos subníveis de energia - Regra de Hund",
+      url: '...'
+    },
+    {
+      linkLicao: "./L185",
+      nomeLicao: "L185 - Distribuição dos Elétrons em ordem de energia - Ordem de Camadas",
+      url: '...'
+    },
+    {
+      linkLicao: "./L186",
+      nomeLicao: "L186 - Distribuição Eletronica 'simplificada' ",
+      url: '...'
+    },
+    {
+      linkLicao: "./L187",
+      nomeLicao: "L187 - Orbitais 's' e 'p' ",
+      url: '...'
+    },
+    {
+      linkLicao: "./L188",
+      nomeLicao: "L188 - Números Quânticos",
+      url: '...'
+    },
+    {
+      linkLicao: "./L189",
+      nomeLicao: "L189 - Descarga elétrica em Gases: Lei de Dalton",
+      url: '...'
+    },
+    {
+      linkLicao: "./L190",
+      nomeLicao: "L190 - Experiência de Thomson (1897) - Ampoola de Goldstein (1886) - Experiência de Milikan (1906) - Experiência de Rutherford",
+      url: '...'
+    },
+    {
+      linkLicao: "./L191",
+      nomeLicao: "L191 - Modelo Atômico de Bohr - parte 1",
+      url: '...'
+    },
+    {
+      linkLicao: "./L192",
+      nomeLicao: "L192 - Modelo Atômico de Bohr - parte 2",
+      url: '...'
+    },
+    {
+      linkLicao: "./L193",
+      nomeLicao: "L193 - Modelo Atômico de Bohr - parte 3",
+      url: '...'
+    }]
+  },
+  {
+    "nomemateria": "Isomeria R-S",
+    "fundo1": "#c6abdf",
+    "fundo2": "#ece2f5",
+    "licoes": [{
+      linkLicao: "./L194",
+      nomeLicao: "L194 - Configuração Absoluta",
+      url: '...'
+    },
+    {
+      linkLicao: "./L195",
+      nomeLicao: "L195 - Configuração de Fischer",
+      url: '...'
+    },
+    {
+      linkLicao: "./L196",
+      nomeLicao: "L196 - Reforçando alguns conceitos",
+      url: '...'
+    }]
+  },
+  {
+    "nomemateria": "REVISÂO ITA/IME",
+    "fundo1": "#03e045",
+    "fundo2": "#ccfbda",
+    "licoes": [{
+      linkLicao: "./L1",
+      nomeLicao: "...",
+      url: '...'
+    }]
+  },
+  {
+    "nomemateria": "Vestibulares",
+    "fundo1": "#d5e003",
+    "fundo2": "#fcffc7",
+    "licoes": [{
+      linkLicao: "./L1",
+      nomeLicao: "...",
+      url: '...'
+    }]
+  }
+
+
+]
