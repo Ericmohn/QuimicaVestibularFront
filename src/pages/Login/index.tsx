@@ -1,24 +1,15 @@
 import React, { useState, ChangeEvent, FormEvent } from 'react'
 import api from '../../Api'
-import {
-  BtnEnviar,
-  DivCriarConta,
-  DivGeralLogin,
-  LinkCriarConta,
-  NavLogin,
-  SmallButton,
-  StyledInput
-} from './styles'
-import Logotipo from '../../components/Logo'
+import { BtnEnviar, DivCriarConta, LinkCriarConta, StyledInput } from './styles'
 import { cores } from '../../styles'
-import { Container } from '@mui/material' // Importar Container de '@mui/material'
-import { useNavigate } from 'react-router-dom' // Importe useNavigate
+import { useNavigate } from 'react-router-dom'
 
 const FormularioLogin = () => {
   const [email, setEmail] = useState<string>('')
   const [senha, setSenha] = useState<string>('')
+  const [mostrarSenha, setMostrarSenha] = useState<boolean>(false)
 
-  const navigate = useNavigate() // Inicialize useNavigate
+  const navigate = useNavigate()
 
   const handleEmailChange = (event: ChangeEvent<HTMLInputElement>) => {
     setEmail(event.target.value)
@@ -38,15 +29,14 @@ const FormularioLogin = () => {
       })
 
       localStorage.setItem('token', response.data.token)
-      //redirecionar para /perfil
       navigate('/user/perfil/assinatura')
     } catch (error: any) {
-      if (error.response && error.response.data && error.response.data.msg) {
+      if (error.response?.data?.msg) {
         alert(error.response.data.msg)
       } else {
         console.error('Erro ao fazer login:', error)
         alert(
-          'Ocorreu um erro ao processar sua solicitação. Por favor, tente novamente mais tarde.'
+          'Ocorreu um erro ao processar sua solicitação. Por favor, tente novamente.'
         )
       }
     }
@@ -59,7 +49,7 @@ const FormularioLogin = () => {
     <>
       <h3>
         Caso seja sua primeira vez, crie sua conta clicando em{' '}
-        <LinkCriarConta to="/Cadastro"> CRIAR CONTA</LinkCriarConta>
+        <LinkCriarConta to="/Cadastro">CRIAR CONTA</LinkCriarConta>
       </h3>
 
       <form onSubmit={handleSubmit}>
@@ -72,20 +62,41 @@ const FormularioLogin = () => {
             placeholder="E-mail"
           />
         </div>
-        <div>
+
+        <div style={{ position: 'relative' }}>
           <StyledInput
-            type="password"
+            type={mostrarSenha ? 'text' : 'password'}
             id="senha"
             value={senha}
             onChange={handleSenhaChange}
             placeholder="Senha"
           />
+
+          <button
+            type="button"
+            onClick={() => setMostrarSenha(!mostrarSenha)}
+            style={{
+              position: 'absolute',
+              right: '12px',
+              top: '50%',
+              transform: 'translateY(-50%)',
+              background: 'none',
+              border: 'none',
+              cursor: 'pointer',
+              color: cores.laranja,
+              fontSize: '18px'
+            }}
+            aria-label={mostrarSenha ? 'Ocultar senha' : 'Mostrar senha'}
+          >
+            {mostrarSenha ? 'Ocultar' : 'Mostrar'}
+          </button>
         </div>
 
         <BtnEnviar type="submit">ENTRAR</BtnEnviar>
       </form>
+
       <DivCriarConta>
-        <LinkCriarConta to="/RecuperarSenha"> RECUPERAR SENHA</LinkCriarConta>
+        <LinkCriarConta to="/RecuperarSenha">RECUPERAR SENHA</LinkCriarConta>
       </DivCriarConta>
     </>
   )
