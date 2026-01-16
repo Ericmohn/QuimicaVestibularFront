@@ -11,6 +11,7 @@ import api from '../../Api'
 
 const CadastroForm = () => {
   const [loadingPayment, setLoadingPayment] = useState(false)
+  const [mostrarSenha, setMostrarSenha] = useState(false)
 
   const formik = useFormik({
     initialValues: {
@@ -118,14 +119,36 @@ const CadastroForm = () => {
           {formik.errors.email && <p>{formik.errors.email}</p>}
         </div>
 
-        <div>
+        <div style={{ position: 'relative' }}>
           <label>Senha</label>
+
           <StyledInput
             name="senha"
-            type="password"
+            type={mostrarSenha ? 'text' : 'password'}
             value={formik.values.senha}
             onChange={formik.handleChange}
+            autoComplete="new-password"
           />
+
+          <button
+            type="button"
+            onClick={() => setMostrarSenha(!mostrarSenha)}
+            style={{
+              position: 'absolute',
+              right: '12px',
+              top: '50%',
+              transform: 'translateY(-50%)',
+              background: 'none',
+              border: 'none',
+              cursor: 'pointer',
+              color: cores.laranja,
+              fontSize: '18px'
+            }}
+            aria-label={mostrarSenha ? 'Ocultar senha' : 'Mostrar senha'}
+          >
+            {mostrarSenha ? 'Ocultar' : 'Mostrar'}
+          </button>
+
           {formik.errors.senha && <p>{formik.errors.senha}</p>}
         </div>
 
