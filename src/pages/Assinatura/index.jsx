@@ -8,7 +8,7 @@ import {
   BotaoIrAssinatura,
   DivAssinatura
 } from './styles'
-import imagemTutorial from '../Perfil/Formularios/Ativo 1.jpg'
+import imagemTutorial from '../Perfil/Formularios/Ativo 1.png'
 import api from '../../Api'
 
 const Assinatura = () => {
